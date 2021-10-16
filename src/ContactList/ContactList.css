@@ -1,0 +1,15 @@
+button {
+    margin: 5px 10px;
+    background-color: #0834f5;
+    color: white;
+    border-radius: 7px;
+    border-color: #0a0131ab;
+    padding: 8px;
+    margin-left: 25px;
+  }
+  button:hover {
+    color: rgba(227, 252, 4, 0.9);
+    background-color: rgb(2, 98, 243);
+    box-shadow: 0px 1px 1px rgba(248, 2, 146, 0.63), 0px 4px 4px rgba(228, 61, 200, 0.808), 1px 4px 6px rgb(234, 120, 245);
+  }
+ 
